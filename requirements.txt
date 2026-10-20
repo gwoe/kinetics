@@ -1,4 +1,3 @@
-IPython notebooks require Python 3 and JupyterLab, and the following libraries:
 numpy
 scipy
 pandas
@@ -8,4 +7,3 @@ ipywidgets
 ipython
 pubchempy
 jupyterlab
-The IPython code has been tested under Python 3.13 and JupyterLab 4.1.5 under MaxOS using MacPorts. 
